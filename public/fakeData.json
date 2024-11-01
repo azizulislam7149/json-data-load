@@ -1,0 +1,122 @@
+[
+    {
+        "playerId": 1,
+        "name": "John Doe",
+        "country": "USA",
+        "image": "https://i.ibb.co.com/7jKR79Q/ben-10.jpg",
+        "role": "Batsman",
+        "battingType": "Right-handed",
+        "bowlingType": "None",
+        "biddingPrice": 500000
+    },
+    {
+        "playerId": 2,
+        "name": "Akira Tanaka",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/27PQ80S/img-1.jpg",
+        "role": "Allrounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 650000
+    },
+    {
+        "playerId": 3,
+        "name": "Liam O'Connor",
+        "country": "Ireland",
+        "image": "https://i.ibb.co.com/txKQWDd/Hashim-Amla-4.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 400000
+    },
+    {
+        "playerId": 4,
+        "name": "Sophie Zhang",
+        "country": "China",
+        "image": "https://i.ibb.co.com/qnJrZCG/gaile-11.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-handed",
+        "bowlingType": "None",
+        "biddingPrice": 700000
+    },
+    {
+        "playerId": 5,
+        "name": "Rahul Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/bHS1Htx/girl-13.jpg",
+        "role": "Allrounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 800000
+    },
+    {
+        "playerId": 6,
+        "name": "Fatima Khan",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/d6NjMs3/Mahmudullah-Batting.jpg",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "None",
+        "biddingPrice": 550000
+    },
+    {
+        "playerId": 7,
+        "name": "Carlos Mendez",
+        "country": "Mexico",
+        "image": "https://i.ibb.co.com/y5xQq55/Musfiqur-Rahim-6.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 450000
+    },
+    {
+        "playerId": 8,
+        "name": "Anna Novak",
+        "country": "Poland",
+        "image": "https://i.ibb.co.com/9HKBgc6/Tamim-Iqbal-7.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-handed",
+        "bowlingType": "None",
+        "biddingPrice": 600000
+    },
+    {
+        "playerId": 9,
+        "name": "Raj Patel",
+        "country": "Nepal",
+        "image": "https://i.ibb.co.com/G97m5WQ/rashid-9.jpg",
+        "role": "Allrounder",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm medium-fast",
+        "biddingPrice": 750000
+    },
+    {
+        "playerId": 10,
+        "name": "Emma Smith",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/s6F2J4z/Boy-12.jpg",
+        "role": "Batsman",
+        "battingType": "Left-handed",
+        "bowlingType": "None",
+        "biddingPrice": 900000
+    },
+    {
+        "playerId": 11,
+        "name": "Mateo Garcia",
+        "country": "Spain",
+        "image": "https://i.ibb.co.com/YX5xzQn/virat-8.jpg",
+        "role": "Bowler",
+        "battingType": "Right-handed",
+        "bowlingType": "Right-arm spin",
+        "biddingPrice": 500000
+    },
+    {
+        "playerId": 12,
+        "name": "Yuki Mori",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/DCvyFfc/Mehidy-Hasan-Miraz-pic.jpg",
+        "role": "Allrounder",
+        "battingType": "Left-handed",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 600000
+    }
+]
